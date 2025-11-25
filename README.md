@@ -1,16 +1,40 @@
-# React + Vite
+🌸 Passoia 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de estudo desenvolvido junto a escola  Vai Na Web
 
-Currently, two official plugins are available:
+💡 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é um projeto criado para fins de estudo, desenvolvido durante as aulas da Escola Vai Na Web.
+É meu primeiro projeto utilizando Node.js e Vite, onde construí uma página de cosméticos femininos, inspirada no estilo da marca L’Oréal.
 
-## React Compiler
+O foco principal foi criar um visual:
+✨ Minimalista
+✨ Profissional
+✨ Atraente e completo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+⚙️ Node.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Vite
+
+⚛️ React
+
+🎨 SCSS
+
+🎯 Objetivo
+
+Aprender e praticar:
+
+Estruturação de um projeto com Vite
+
+Componentização com React
+
+Organização de estilos com SCSS
+
+Layout limpo e refinado para e-commerce
+
+📌 Status
+
+✔️ Projeto em desenvolvimento constante
+✔️ Ajustes sendo feitos nos componentes e estilos
